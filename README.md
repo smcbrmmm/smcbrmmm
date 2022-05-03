@@ -1,6 +1,6 @@
 ### 👋 ***System.out.println("Hello World")***
 
-### 👩‍💻 ***Tech Stack***
+### 💻 ***Tech Stack***
 #### Programming Skills
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -32,7 +32,7 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-### 📈 ***Github Status***
+### 📊 ***Github Status***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcbrmmm&show_icons=true&theme=radical)
 
