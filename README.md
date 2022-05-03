@@ -25,6 +25,8 @@
 ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=smcbrmmm)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📈 Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcbrmmm&show_icons=true&theme=radical)
 
