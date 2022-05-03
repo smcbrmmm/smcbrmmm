@@ -1,5 +1,5 @@
-## 👋 ***System.out.println("Hello World")***
-### 👋 ***System.out.println("My name is Samut Chouybumrung")***
+## 👋 ***System.out.println("Hello World\n My")***
+
 
 ### 💻 ***Tech Stack***
 #### Programming Skills
