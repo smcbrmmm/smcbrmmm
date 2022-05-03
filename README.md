@@ -2,7 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcbrmmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+![image]({https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white})
+
 
 <!--
 **smcbrmmm/smcbrmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
