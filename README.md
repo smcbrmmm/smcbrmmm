@@ -1,4 +1,4 @@
-## 👋 ***System.out.println("Hello World  \ Samut Chouybumrung")***
+## 👋 ***System.out.println("Hello World , My name is Samut Chouybumrung")***
 
 
 ### 💻 ***Tech Stack***
