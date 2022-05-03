@@ -1,7 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcbrmmm&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcbrmmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+## Tech Stacks
 #### Analytic
 ![image](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 #### Cloud
@@ -20,6 +17,11 @@
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+## Github status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcbrmmm&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcbrmmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **smcbrmmm/smcbrmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
