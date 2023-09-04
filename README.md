@@ -1,5 +1,5 @@
 ### 👋 ***System.out.println("Hello World , My name is Samut Chouybumrung")***
-### ***I'm a Software Engineer at Krungsri***
+### ***I'm a Software Engineer at Krungsri AYCAP for 1 years***
 
 
 ### 💻 ***Tech Stack***
